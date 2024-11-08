@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "jayson": "^4.1.0",
+    "jsdom": "^22.1.0",
+    "jssoup": "^0.0.15",
+    "jssoup-selector": "^0.0.1",
+    "request": "^2.88.2",
+    "sm-crypto": "^0.3.12"
+  },
+  "devDependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
